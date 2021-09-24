@@ -1,0 +1,938 @@
+29 Mar 2019 12:55:59 GMT: Log 'EclipseCompiler.txt' opened: 29 Mar 2019 12:55:59 GMT with name D:\School\Grade 12\Computer Science\Space Invaders\EclipseCompiler.txt
+29 Mar 2019 13:02:45 GMT: diagnostics = javax.tools.DiagnosticCollector@78412b40
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@62a63682
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:02:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1be68e20' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:02:47 GMT: Compiler call returned
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69bd85d
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 10 ColNo = 15 Msg = 'Syntax error on token ";", { expected after this token'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cb1d50f
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 14 ColNo = 10 Msg = 'Syntax error, insert "VariableDeclaratorId" to complete FormalParameter'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24b0b3f4
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 16 ColNo = 23 Msg = 'Syntax error on token "(", ; expected'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57fb51fa
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 16 ColNo = 36 Msg = 'Syntax error on token ")", ; expected'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a6ab27f
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 20 ColNo = 10 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68810590
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 20 ColNo = 10 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@490f2467
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 20 ColNo = 24 Msg = 'Syntax error on token "{", ; expected'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44f6d83d
+29 Mar 2019 13:02:47 GMT:  Kind = WARNING
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b407396
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b0d4aeb
+29 Mar 2019 13:02:47 GMT:  Kind = WARNING
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b1177f1
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 10 ColNo = 3 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29547b9e
+29 Mar 2019 13:02:47 GMT:  Kind = ERROR
+29 Mar 2019 13:02:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 13 ColNo = 5 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:03:37 GMT: diagnostics = javax.tools.DiagnosticCollector@75f496aa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5c977c96
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:03:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@59cbaa08' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:03:38 GMT: Compiler call returned
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@693fc065
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 13 ColNo = 15 Msg = 'Syntax error on token ";", { expected after this token'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33cd3312
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 17 ColNo = 10 Msg = 'Syntax error, insert "VariableDeclaratorId" to complete FormalParameter'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45002a0
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 19 ColNo = 23 Msg = 'Syntax error on token "(", ; expected'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48e27f8
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 19 ColNo = 36 Msg = 'Syntax error on token ")", ; expected'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a5e3e4
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 23 ColNo = 10 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@492a0721
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 23 ColNo = 10 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4deb49a6
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 23 ColNo = 24 Msg = 'Syntax error on token "{", ; expected'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38af0604
+29 Mar 2019 13:03:38 GMT:  Kind = WARNING
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a97836
+29 Mar 2019 13:03:38 GMT:  Kind = ERROR
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:03:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da3748d
+29 Mar 2019 13:03:38 GMT:  Kind = WARNING
+29 Mar 2019 13:03:38 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:12 GMT: diagnostics = javax.tools.DiagnosticCollector@965bce0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71b3bd9c
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:05:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@34dafd51' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:05:12 GMT: Compiler call returned
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3aa16b6
+29 Mar 2019 13:05:12 GMT:  Kind = WARNING
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ec87669
+29 Mar 2019 13:05:12 GMT:  Kind = ERROR
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54a9f42f
+29 Mar 2019 13:05:12 GMT:  Kind = WARNING
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6384749e
+29 Mar 2019 13:05:12 GMT:  Kind = ERROR
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 18 ColNo = 12 Msg = 'Syntax error, insert "VariableDeclaratorId" to complete FormalParameter'
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3048c1fe
+29 Mar 2019 13:05:12 GMT:  Kind = ERROR
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 15 ColNo = 10 Msg = 'Return type for the method is missing'
+29 Mar 2019 13:05:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d1e92a0
+29 Mar 2019 13:05:12 GMT:  Kind = ERROR
+29 Mar 2019 13:05:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 28 ColNo = 14 Msg = 'This method must return a result of type int'
+29 Mar 2019 13:05:32 GMT: diagnostics = javax.tools.DiagnosticCollector@525de5c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72c5f05b
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:05:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@600176f9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:05:32 GMT: Compiler call returned
+29 Mar 2019 13:05:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7189a0c6
+29 Mar 2019 13:05:32 GMT:  Kind = WARNING
+29 Mar 2019 13:05:32 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30fa5926
+29 Mar 2019 13:05:32 GMT:  Kind = ERROR
+29 Mar 2019 13:05:32 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:05:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@780d5e16
+29 Mar 2019 13:05:32 GMT:  Kind = WARNING
+29 Mar 2019 13:05:32 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e11722c
+29 Mar 2019 13:05:32 GMT:  Kind = ERROR
+29 Mar 2019 13:05:32 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 18 ColNo = 12 Msg = 'Syntax error, insert "VariableDeclaratorId" to complete FormalParameter'
+29 Mar 2019 13:05:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22226eb8
+29 Mar 2019 13:05:32 GMT:  Kind = ERROR
+29 Mar 2019 13:05:32 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 28 ColNo = 14 Msg = 'This method must return a result of type int'
+29 Mar 2019 13:05:49 GMT: diagnostics = javax.tools.DiagnosticCollector@7eda414a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71c63c0e
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:05:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@24ac18b7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:05:49 GMT: Compiler call returned
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76d3d8ba
+29 Mar 2019 13:05:49 GMT:  Kind = WARNING
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21647a50
+29 Mar 2019 13:05:49 GMT:  Kind = ERROR
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f32b34a
+29 Mar 2019 13:05:49 GMT:  Kind = WARNING
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63837f86
+29 Mar 2019 13:05:49 GMT:  Kind = WARNING
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 1 ColNo = 8 Msg = 'The import javax.swing is never used'
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfd7d44
+29 Mar 2019 13:05:49 GMT:  Kind = WARNING
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+29 Mar 2019 13:05:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9492091
+29 Mar 2019 13:05:49 GMT:  Kind = ERROR
+29 Mar 2019 13:05:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 28 ColNo = 14 Msg = 'This method must return a result of type int'
+29 Mar 2019 13:06:04 GMT: diagnostics = javax.tools.DiagnosticCollector@15ab254
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@78a6b9c
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:06:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5f0bcb5b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:06:04 GMT: Compiler call returned
+29 Mar 2019 13:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a8cd884
+29 Mar 2019 13:06:04 GMT:  Kind = WARNING
+29 Mar 2019 13:06:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ed91d6c
+29 Mar 2019 13:06:04 GMT:  Kind = ERROR
+29 Mar 2019 13:06:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 40 Msg = 'getY_pos cannot be resolved or is not a field'
+29 Mar 2019 13:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cb02090
+29 Mar 2019 13:06:04 GMT:  Kind = WARNING
+29 Mar 2019 13:06:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33e2ef00
+29 Mar 2019 13:06:04 GMT:  Kind = WARNING
+29 Mar 2019 13:06:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 1 ColNo = 8 Msg = 'The import javax.swing is never used'
+29 Mar 2019 13:06:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fe64900
+29 Mar 2019 13:06:04 GMT:  Kind = WARNING
+29 Mar 2019 13:06:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+29 Mar 2019 13:06:15 GMT: diagnostics = javax.tools.DiagnosticCollector@49902c00
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fe495ec
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:06:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3a9ac9a4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:06:15 GMT: Compiler call returned
+29 Mar 2019 13:06:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c9e7d06
+29 Mar 2019 13:06:15 GMT:  Kind = WARNING
+29 Mar 2019 13:06:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 1 ColNo = 8 Msg = 'The import javax.swing is never used'
+29 Mar 2019 13:06:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3112f900
+29 Mar 2019 13:06:15 GMT:  Kind = WARNING
+29 Mar 2019 13:06:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+29 Mar 2019 13:06:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@df93736
+29 Mar 2019 13:06:15 GMT:  Kind = WARNING
+29 Mar 2019 13:06:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:06:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e9157ef
+29 Mar 2019 13:06:15 GMT:  Kind = WARNING
+29 Mar 2019 13:06:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:08:10 GMT: diagnostics = javax.tools.DiagnosticCollector@a913291
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4209a8bf
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:08:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6d5887f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:08:10 GMT: Compiler call returned
+29 Mar 2019 13:08:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1452834d
+29 Mar 2019 13:08:10 GMT:  Kind = WARNING
+29 Mar 2019 13:08:10 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 1 ColNo = 8 Msg = 'The import javax.swing is never used'
+29 Mar 2019 13:08:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b31318a
+29 Mar 2019 13:08:10 GMT:  Kind = WARNING
+29 Mar 2019 13:08:10 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+29 Mar 2019 13:08:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7564b893
+29 Mar 2019 13:08:10 GMT:  Kind = WARNING
+29 Mar 2019 13:08:10 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:08:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e36c520
+29 Mar 2019 13:08:10 GMT:  Kind = WARNING
+29 Mar 2019 13:08:10 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:18 GMT: diagnostics = javax.tools.DiagnosticCollector@695734d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bbea35b
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:11:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2475e7bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:11:18 GMT: Compiler call returned
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a14074
+29 Mar 2019 13:11:18 GMT:  Kind = WARNING
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132106e1
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 29 ColNo = 10 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@568d173e
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 25 Msg = 'The method getImage() from the type Ship refers to the missing type Image'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78e75672
+29 Mar 2019 13:11:18 GMT:  Kind = WARNING
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@734e1bfa
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 19 ColNo = 7 Msg = 'Syntax error on token "(", Expression expected after this token'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68c30d7c
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 10 ColNo = 3 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5649c3bd
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 14 ColNo = 7 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@145f5bc0
+29 Mar 2019 13:11:18 GMT:  Kind = ERROR
+29 Mar 2019 13:11:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 30 ColNo = 12 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:33 GMT: diagnostics = javax.tools.DiagnosticCollector@3bf69cdc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@62fe0a1e
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:11:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2fe78f01' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:11:34 GMT: Compiler call returned
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@428ee615
+29 Mar 2019 13:11:34 GMT:  Kind = WARNING
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1854c58
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 30 ColNo = 10 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63897362
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 64 ColNo = 25 Msg = 'The method getImage() from the type Ship refers to the missing type Image'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52a164ae
+29 Mar 2019 13:11:34 GMT:  Kind = WARNING
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@672a8ea1
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 20 ColNo = 7 Msg = 'Syntax error on token "(", Expression expected after this token'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c66f990
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 11 ColNo = 3 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@645c811d
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 15 ColNo = 7 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d011d2c
+29 Mar 2019 13:11:34 GMT:  Kind = ERROR
+29 Mar 2019 13:11:34 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 31 ColNo = 12 Msg = 'Image cannot be resolved to a type'
+29 Mar 2019 13:11:50 GMT: diagnostics = javax.tools.DiagnosticCollector@10c0208a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a027064
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:11:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7a30e139' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:11:50 GMT: Compiler call returned
+29 Mar 2019 13:11:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@296a2cee
+29 Mar 2019 13:11:50 GMT:  Kind = WARNING
+29 Mar 2019 13:11:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@236aa36
+29 Mar 2019 13:11:50 GMT:  Kind = WARNING
+29 Mar 2019 13:11:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:11:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44f15bde
+29 Mar 2019 13:11:50 GMT:  Kind = WARNING
+29 Mar 2019 13:11:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 1 ColNo = 8 Msg = 'The import javax.swing is never used'
+29 Mar 2019 13:11:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6302f968
+29 Mar 2019 13:11:50 GMT:  Kind = WARNING
+29 Mar 2019 13:11:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Ship.java LineNo = 3 ColNo = 8 Msg = 'The import java.awt.event is never used'
+29 Mar 2019 13:11:59 GMT: diagnostics = javax.tools.DiagnosticCollector@5c6a0a3e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4b6f4d1
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:11:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@defa81a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:12:00 GMT: Compiler call returned
+29 Mar 2019 13:12:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@228e9d23
+29 Mar 2019 13:12:00 GMT:  Kind = WARNING
+29 Mar 2019 13:12:00 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:12:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3852a4eb
+29 Mar 2019 13:12:00 GMT:  Kind = WARNING
+29 Mar 2019 13:12:00 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:05 GMT: diagnostics = javax.tools.DiagnosticCollector@68fffdf4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21ff1265
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:13:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@199f56f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:13:05 GMT: Compiler call returned
+29 Mar 2019 13:13:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a5763f8
+29 Mar 2019 13:13:05 GMT:  Kind = WARNING
+29 Mar 2019 13:13:05 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4755d03b
+29 Mar 2019 13:13:05 GMT:  Kind = WARNING
+29 Mar 2019 13:13:05 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:23 GMT: diagnostics = javax.tools.DiagnosticCollector@42f8827d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d1d49cb
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:13:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4297fb90' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:13:24 GMT: Compiler call returned
+29 Mar 2019 13:13:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d892f71
+29 Mar 2019 13:13:24 GMT:  Kind = WARNING
+29 Mar 2019 13:13:24 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 59 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bf2f0cf
+29 Mar 2019 13:13:24 GMT:  Kind = WARNING
+29 Mar 2019 13:13:24 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c5dc530
+29 Mar 2019 13:13:24 GMT:  Kind = ERROR
+29 Mar 2019 13:13:24 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 25 ColNo = 15 Msg = 'The method setMinimumSize(java.awt.Dimension) in the type javax.swing.JComponent is not applicable for the arguments (int, int)'
+29 Mar 2019 13:13:43 GMT: diagnostics = javax.tools.DiagnosticCollector@2b49383b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@438ce823
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:13:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d9d2c38' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:13:43 GMT: Compiler call returned
+29 Mar 2019 13:13:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@581a732
+29 Mar 2019 13:13:43 GMT:  Kind = WARNING
+29 Mar 2019 13:13:43 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 58 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:13:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@775b6454
+29 Mar 2019 13:13:43 GMT:  Kind = WARNING
+29 Mar 2019 13:13:43 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:04 GMT: diagnostics = javax.tools.DiagnosticCollector@40b0da7d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@36e00bd
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:25:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3715396b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:25:04 GMT: Compiler call returned
+29 Mar 2019 13:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29a77db4
+29 Mar 2019 13:25:04 GMT:  Kind = WARNING
+29 Mar 2019 13:25:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 65 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d2041e
+29 Mar 2019 13:25:04 GMT:  Kind = WARNING
+29 Mar 2019 13:25:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@688139e6
+29 Mar 2019 13:25:04 GMT:  Kind = WARNING
+29 Mar 2019 13:25:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 38 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66198f99
+29 Mar 2019 13:25:04 GMT:  Kind = WARNING
+29 Mar 2019 13:25:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 42 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:25:36 GMT: diagnostics = javax.tools.DiagnosticCollector@47ca671c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7782123a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:25:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@656102f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:25:36 GMT: Compiler call returned
+29 Mar 2019 13:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3971b73f
+29 Mar 2019 13:25:36 GMT:  Kind = WARNING
+29 Mar 2019 13:25:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bbaa226
+29 Mar 2019 13:25:36 GMT:  Kind = WARNING
+29 Mar 2019 13:25:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@807e288
+29 Mar 2019 13:25:36 GMT:  Kind = WARNING
+29 Mar 2019 13:25:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d2d30be
+29 Mar 2019 13:25:36 GMT:  Kind = WARNING
+29 Mar 2019 13:25:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:25:57 GMT: diagnostics = javax.tools.DiagnosticCollector@5a3326c2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e8f33f6
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+29 Mar 2019 13:25:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b1da2ee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:25:57 GMT: Compiler call returned
+29 Mar 2019 13:25:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e860e1d
+29 Mar 2019 13:25:57 GMT:  Kind = WARNING
+29 Mar 2019 13:25:57 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@235b4d48
+29 Mar 2019 13:25:57 GMT:  Kind = WARNING
+29 Mar 2019 13:25:57 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:25:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@729d88e9
+29 Mar 2019 13:25:57 GMT:  Kind = WARNING
+29 Mar 2019 13:25:57 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:25:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5568eba3
+29 Mar 2019 13:25:57 GMT:  Kind = WARNING
+29 Mar 2019 13:25:57 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:27:17 GMT: diagnostics = javax.tools.DiagnosticCollector@57b1ed30
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50e28573
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:27:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3cdd59b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:27:18 GMT: Compiler call returned
+29 Mar 2019 13:27:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2de7953b
+29 Mar 2019 13:27:18 GMT:  Kind = WARNING
+29 Mar 2019 13:27:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:27:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2017b098
+29 Mar 2019 13:27:18 GMT:  Kind = WARNING
+29 Mar 2019 13:27:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:27:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7221fb93
+29 Mar 2019 13:27:18 GMT:  Kind = WARNING
+29 Mar 2019 13:27:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:27:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29b67b5a
+29 Mar 2019 13:27:18 GMT:  Kind = WARNING
+29 Mar 2019 13:27:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:28:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1b224e21
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3f226c05
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:28:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f1783ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:28:53 GMT: Compiler call returned
+29 Mar 2019 13:28:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bff5046
+29 Mar 2019 13:28:53 GMT:  Kind = WARNING
+29 Mar 2019 13:28:53 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:28:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fcd7d64
+29 Mar 2019 13:28:53 GMT:  Kind = WARNING
+29 Mar 2019 13:28:53 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:28:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28806a5f
+29 Mar 2019 13:28:53 GMT:  Kind = WARNING
+29 Mar 2019 13:28:53 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:28:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88b9e5c
+29 Mar 2019 13:28:53 GMT:  Kind = WARNING
+29 Mar 2019 13:28:53 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:29:20 GMT: diagnostics = javax.tools.DiagnosticCollector@f21ea3f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ef1a170
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:29:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5c7ed9d5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:29:20 GMT: Compiler call returned
+29 Mar 2019 13:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cf21726
+29 Mar 2019 13:29:20 GMT:  Kind = WARNING
+29 Mar 2019 13:29:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56e18924
+29 Mar 2019 13:29:20 GMT:  Kind = WARNING
+29 Mar 2019 13:29:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c9b8242
+29 Mar 2019 13:29:20 GMT:  Kind = WARNING
+29 Mar 2019 13:29:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5abf4030
+29 Mar 2019 13:29:20 GMT:  Kind = WARNING
+29 Mar 2019 13:29:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+29 Mar 2019 13:30:18 GMT: diagnostics = javax.tools.DiagnosticCollector@23b9e7f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@592938f2
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+29 Mar 2019 13:30:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15b407ff' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+29 Mar 2019 13:30:18 GMT: Compiler call returned
+29 Mar 2019 13:30:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f194778
+29 Mar 2019 13:30:18 GMT:  Kind = WARNING
+29 Mar 2019 13:30:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 66 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:30:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@699066c5
+29 Mar 2019 13:30:18 GMT:  Kind = WARNING
+29 Mar 2019 13:30:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 6 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+29 Mar 2019 13:30:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22b64371
+29 Mar 2019 13:30:18 GMT:  Kind = WARNING
+29 Mar 2019 13:30:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 39 ColNo = 11 Msg = 'The value of the local variable height is not used'
+29 Mar 2019 13:30:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6676373
+29 Mar 2019 13:30:18 GMT:  Kind = WARNING
+29 Mar 2019 13:30:18 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 43 ColNo = 11 Msg = 'The value of the local variable nsInset is not used'
+3 Apr 2019 21:51:25 GMT: Log 'EclipseCompiler.txt' opened: 3 Apr 2019 21:51:25 GMT with name D:\School\Grade 12\Computer Science\Space Invaders\EclipseCompiler.txt
+3 Apr 2019 21:52:48 GMT: diagnostics = javax.tools.DiagnosticCollector@6733f29c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@537d989a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 21:52:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5af3b361' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 21:52:49 GMT: Compiler call returned
+3 Apr 2019 21:52:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78892c0b
+3 Apr 2019 21:52:49 GMT:  Kind = ERROR
+3 Apr 2019 21:52:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 24 ColNo = 26 Msg = 'Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList'
+3 Apr 2019 21:52:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca9b353
+3 Apr 2019 21:52:49 GMT:  Kind = WARNING
+3 Apr 2019 21:52:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 152 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 21:52:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2df13db9
+3 Apr 2019 21:52:49 GMT:  Kind = WARNING
+3 Apr 2019 21:52:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 21:52:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f67b51c
+3 Apr 2019 21:52:49 GMT:  Kind = ERROR
+3 Apr 2019 21:52:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 85 ColNo = 20 Msg = 'The method moveMissle() in the type Missle is not applicable for the arguments (int)'
+3 Apr 2019 21:53:34 GMT: diagnostics = javax.tools.DiagnosticCollector@4233d10b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9016605
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 21:53:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5ace6702' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 21:53:35 GMT: Compiler call returned
+3 Apr 2019 21:53:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ab12a2c
+3 Apr 2019 21:53:35 GMT:  Kind = WARNING
+3 Apr 2019 21:53:35 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 152 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 21:53:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@680e555e
+3 Apr 2019 21:53:35 GMT:  Kind = WARNING
+3 Apr 2019 21:53:35 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 21:53:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@429ffe58
+3 Apr 2019 21:53:35 GMT:  Kind = ERROR
+3 Apr 2019 21:53:35 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 25 ColNo = 17 Msg = 'dir cannot be resolved to a variable'
+3 Apr 2019 21:53:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a728d1a
+3 Apr 2019 21:53:35 GMT:  Kind = ERROR
+3 Apr 2019 21:53:35 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 27 ColNo = 28 Msg = 'dir cannot be resolved to a variable'
+3 Apr 2019 21:54:26 GMT: diagnostics = javax.tools.DiagnosticCollector@30148475
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@270121bc
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 21:54:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2d5d5b3b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 21:54:26 GMT: Compiler call returned
+3 Apr 2019 21:54:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f4c3425
+3 Apr 2019 21:54:26 GMT:  Kind = WARNING
+3 Apr 2019 21:54:26 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 152 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 21:54:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@508fbbe4
+3 Apr 2019 21:54:26 GMT:  Kind = WARNING
+3 Apr 2019 21:54:26 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:03:08 GMT: diagnostics = javax.tools.DiagnosticCollector@7f745d00
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10de58a3
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+3 Apr 2019 22:03:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69aeaa02' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:03:11 GMT: Compiler call returned
+3 Apr 2019 22:03:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fdb15b2
+3 Apr 2019 22:03:11 GMT:  Kind = WARNING
+3 Apr 2019 22:03:11 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:03:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@690633
+3 Apr 2019 22:03:11 GMT:  Kind = WARNING
+3 Apr 2019 22:03:11 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:03:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c58635b
+3 Apr 2019 22:03:11 GMT:  Kind = ERROR
+3 Apr 2019 22:03:11 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 24 ColNo = 18 Msg = 'This method must return a result of type boolean'
+3 Apr 2019 22:04:04 GMT: diagnostics = javax.tools.DiagnosticCollector@40e415fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c7e2fc6
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:04:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7867a346' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:04:04 GMT: Compiler call returned
+3 Apr 2019 22:04:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3596e3b4
+3 Apr 2019 22:04:04 GMT:  Kind = WARNING
+3 Apr 2019 22:04:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:04:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@929bfa6
+3 Apr 2019 22:04:04 GMT:  Kind = WARNING
+3 Apr 2019 22:04:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:04:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5035f3d6
+3 Apr 2019 22:04:04 GMT:  Kind = ERROR
+3 Apr 2019 22:04:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 26 ColNo = 14 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+3 Apr 2019 22:04:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70ca16cc
+3 Apr 2019 22:04:04 GMT:  Kind = ERROR
+3 Apr 2019 22:04:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 26 ColNo = 14 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+3 Apr 2019 22:04:17 GMT: diagnostics = javax.tools.DiagnosticCollector@2bb38793
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7d6c896a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:04:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b7d0834' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:04:17 GMT: Compiler call returned
+3 Apr 2019 22:04:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@727caf10
+3 Apr 2019 22:04:17 GMT:  Kind = WARNING
+3 Apr 2019 22:04:17 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:04:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c1d7bd
+3 Apr 2019 22:04:17 GMT:  Kind = WARNING
+3 Apr 2019 22:04:17 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:06:09 GMT: diagnostics = javax.tools.DiagnosticCollector@2418ab10
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@350ff8d4
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java]
+3 Apr 2019 22:06:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c09a3da' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:06:12 GMT: Compiler call returned
+3 Apr 2019 22:06:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58f8557c
+3 Apr 2019 22:06:12 GMT:  Kind = WARNING
+3 Apr 2019 22:06:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:06:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@120b05f8
+3 Apr 2019 22:06:12 GMT:  Kind = WARNING
+3 Apr 2019 22:06:12 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:07:10 GMT: diagnostics = javax.tools.DiagnosticCollector@39aa25e0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@58bcad87
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java]
+3 Apr 2019 22:07:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f15d47' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:07:11 GMT: Compiler call returned
+3 Apr 2019 22:07:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@781e30d1
+3 Apr 2019 22:07:11 GMT:  Kind = WARNING
+3 Apr 2019 22:07:11 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:07:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16741013
+3 Apr 2019 22:07:11 GMT:  Kind = WARNING
+3 Apr 2019 22:07:11 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:09:01 GMT: diagnostics = javax.tools.DiagnosticCollector@3fc9d023
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@680be397
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java]
+3 Apr 2019 22:09:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a7a2159' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:09:01 GMT: Compiler call returned
+3 Apr 2019 22:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d6b584d
+3 Apr 2019 22:09:01 GMT:  Kind = WARNING
+3 Apr 2019 22:09:01 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 155 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dadad98
+3 Apr 2019 22:09:01 GMT:  Kind = WARNING
+3 Apr 2019 22:09:01 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:14:11 GMT: diagnostics = javax.tools.DiagnosticCollector@d8c0749
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7a3951c3
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:14:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@117e4320' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:14:15 GMT: Compiler call returned
+3 Apr 2019 22:14:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cb3bb8a
+3 Apr 2019 22:14:15 GMT:  Kind = WARNING
+3 Apr 2019 22:14:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:14:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49f8ea69
+3 Apr 2019 22:14:15 GMT:  Kind = WARNING
+3 Apr 2019 22:14:15 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:12 GMT: diagnostics = javax.tools.DiagnosticCollector@6b84484
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4cbffb03
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:19:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ccb5233' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:19:13 GMT: Compiler call returned
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bc2a2a9
+3 Apr 2019 22:19:13 GMT:  Kind = WARNING
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75c2abfc
+3 Apr 2019 22:19:13 GMT:  Kind = WARNING
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e1d60a9
+3 Apr 2019 22:19:13 GMT:  Kind = ERROR
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 18 ColNo = 14 Msg = 'IOExceptionli cannot be resolved to a type'
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ff880b2
+3 Apr 2019 22:19:13 GMT:  Kind = ERROR
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 45 ColNo = 45 Msg = 'The method getWidth(java.awt.image.ImageObserver) in the type java.awt.Image is not applicable for the arguments ()'
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51c1aa0e
+3 Apr 2019 22:19:13 GMT:  Kind = ERROR
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 45 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:19:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@313c7681
+3 Apr 2019 22:19:13 GMT:  Kind = ERROR
+3 Apr 2019 22:19:13 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 25 ColNo = 18 Msg = 'This method must return a result of type boolean'
+3 Apr 2019 22:19:21 GMT: diagnostics = javax.tools.DiagnosticCollector@7a9888f4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@502ae397
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:19:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b0fa28e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:19:22 GMT: Compiler call returned
+3 Apr 2019 22:19:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c7d6a4f
+3 Apr 2019 22:19:22 GMT:  Kind = WARNING
+3 Apr 2019 22:19:22 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@365cac6a
+3 Apr 2019 22:19:22 GMT:  Kind = WARNING
+3 Apr 2019 22:19:22 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49423069
+3 Apr 2019 22:19:22 GMT:  Kind = ERROR
+3 Apr 2019 22:19:22 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 45 ColNo = 45 Msg = 'The method getWidth(java.awt.image.ImageObserver) in the type java.awt.Image is not applicable for the arguments ()'
+3 Apr 2019 22:19:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34cda650
+3 Apr 2019 22:19:22 GMT:  Kind = ERROR
+3 Apr 2019 22:19:22 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 45 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:19:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43958d94
+3 Apr 2019 22:19:22 GMT:  Kind = ERROR
+3 Apr 2019 22:19:22 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 25 ColNo = 18 Msg = 'This method must return a result of type boolean'
+3 Apr 2019 22:19:35 GMT: diagnostics = javax.tools.DiagnosticCollector@38eddac6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@31e8bcad
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:19:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2523eb73' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:19:36 GMT: Compiler call returned
+3 Apr 2019 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68e859c6
+3 Apr 2019 22:19:36 GMT:  Kind = WARNING
+3 Apr 2019 22:19:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e0729a6
+3 Apr 2019 22:19:36 GMT:  Kind = WARNING
+3 Apr 2019 22:19:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34f59859
+3 Apr 2019 22:19:36 GMT:  Kind = ERROR
+3 Apr 2019 22:19:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 31 ColNo = 14 Msg = 'Syntax error, insert ";" to complete ReturnStatement'
+3 Apr 2019 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40955f53
+3 Apr 2019 22:19:36 GMT:  Kind = ERROR
+3 Apr 2019 22:19:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 45 Msg = 'The method getWidth(java.awt.image.ImageObserver) in the type java.awt.Image is not applicable for the arguments ()'
+3 Apr 2019 22:19:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a1918ee
+3 Apr 2019 22:19:36 GMT:  Kind = ERROR
+3 Apr 2019 22:19:36 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:19:42 GMT: diagnostics = javax.tools.DiagnosticCollector@a1493e6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@52e4ed8a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:19:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@43ee37bb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:19:45 GMT: Compiler call returned
+3 Apr 2019 22:19:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55a00396
+3 Apr 2019 22:19:45 GMT:  Kind = WARNING
+3 Apr 2019 22:19:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@771afd81
+3 Apr 2019 22:19:45 GMT:  Kind = WARNING
+3 Apr 2019 22:19:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:19:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@609d64b8
+3 Apr 2019 22:19:45 GMT:  Kind = ERROR
+3 Apr 2019 22:19:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 45 Msg = 'The method getWidth(java.awt.image.ImageObserver) in the type java.awt.Image is not applicable for the arguments ()'
+3 Apr 2019 22:19:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@739cdf19
+3 Apr 2019 22:19:45 GMT:  Kind = ERROR
+3 Apr 2019 22:19:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:22:48 GMT: diagnostics = javax.tools.DiagnosticCollector@17726ce3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1acdac6b
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:22:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2ff86fdc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:22:49 GMT: Compiler call returned
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d2d3c19
+3 Apr 2019 22:22:49 GMT:  Kind = WARNING
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@583c0276
+3 Apr 2019 22:22:49 GMT:  Kind = WARNING
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4593c3b1
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 9 ColNo = 3 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6fa629
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 17 ColNo = 9 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e769e89
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 21 ColNo = 9 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66e11883
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 43 ColNo = 12 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d34d1a5
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 38 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a1d66c4
+3 Apr 2019 22:22:49 GMT:  Kind = ERROR
+3 Apr 2019 22:22:49 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 57 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:22:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1c72b9cc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6511676
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:22:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5794d0cd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:22:58 GMT: Compiler call returned
+3 Apr 2019 22:22:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@729ddc78
+3 Apr 2019 22:22:58 GMT:  Kind = WARNING
+3 Apr 2019 22:22:58 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:22:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fec1b4a
+3 Apr 2019 22:22:58 GMT:  Kind = WARNING
+3 Apr 2019 22:22:58 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:22:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13495513
+3 Apr 2019 22:22:58 GMT:  Kind = ERROR
+3 Apr 2019 22:22:58 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 45 Msg = 'The method getWidth(java.awt.image.ImageObserver) in the type java.awt.Image is not applicable for the arguments ()'
+3 Apr 2019 22:22:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27af17aa
+3 Apr 2019 22:22:58 GMT:  Kind = ERROR
+3 Apr 2019 22:22:58 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:24:21 GMT: diagnostics = javax.tools.DiagnosticCollector@2a9a08c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@27dd479e
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:24:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77842ec0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:24:21 GMT: Compiler call returned
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2878ad1b
+3 Apr 2019 22:24:21 GMT:  Kind = WARNING
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f2697df
+3 Apr 2019 22:24:21 GMT:  Kind = WARNING
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d796012
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 9 ColNo = 3 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@206f6b44
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 17 ColNo = 9 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d920a27
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 21 ColNo = 9 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4601e425
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 43 ColNo = 12 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@407e7507
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 38 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:24:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b101307
+3 Apr 2019 22:24:21 GMT:  Kind = ERROR
+3 Apr 2019 22:24:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 46 ColNo = 57 Msg = 'BufferedImage cannot be resolved to a type'
+3 Apr 2019 22:27:03 GMT: diagnostics = javax.tools.DiagnosticCollector@4d2e03e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37efa38a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:27:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4606312b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:27:03 GMT: Compiler call returned
+3 Apr 2019 22:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58ca1eb6
+3 Apr 2019 22:27:03 GMT:  Kind = WARNING
+3 Apr 2019 22:27:03 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2924a24f
+3 Apr 2019 22:27:03 GMT:  Kind = WARNING
+3 Apr 2019 22:27:03 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36ebcd31
+3 Apr 2019 22:27:03 GMT:  Kind = ERROR
+3 Apr 2019 22:27:03 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 47 ColNo = 64 Msg = 'getHeight cannot be resolved or is not a field'
+3 Apr 2019 22:27:20 GMT: diagnostics = javax.tools.DiagnosticCollector@6e40c68c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc49fb0
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:27:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ad6b59d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:27:21 GMT: Compiler call returned
+3 Apr 2019 22:27:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a723c4
+3 Apr 2019 22:27:21 GMT:  Kind = WARNING
+3 Apr 2019 22:27:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:27:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a623a5
+3 Apr 2019 22:27:21 GMT:  Kind = WARNING
+3 Apr 2019 22:27:21 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:28:24 GMT: diagnostics = javax.tools.DiagnosticCollector@3da3fc83
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@338f05d4
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java]
+3 Apr 2019 22:28:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16f5cea5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:28:24 GMT: Compiler call returned
+3 Apr 2019 22:28:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28761fe4
+3 Apr 2019 22:28:24 GMT:  Kind = WARNING
+3 Apr 2019 22:28:24 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:28:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a7b5ec3
+3 Apr 2019 22:28:24 GMT:  Kind = WARNING
+3 Apr 2019 22:28:24 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:30:04 GMT: diagnostics = javax.tools.DiagnosticCollector@535c91f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7fd49789
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+3 Apr 2019 22:30:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6f091b2f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:30:04 GMT: Compiler call returned
+3 Apr 2019 22:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f3a2f7
+3 Apr 2019 22:30:04 GMT:  Kind = WARNING
+3 Apr 2019 22:30:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:30:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@217910d
+3 Apr 2019 22:30:04 GMT:  Kind = WARNING
+3 Apr 2019 22:30:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:37:45 GMT: diagnostics = javax.tools.DiagnosticCollector@75909fa6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@789ce35a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java]
+3 Apr 2019 22:37:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6dcf8efa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:37:45 GMT: Compiler call returned
+3 Apr 2019 22:37:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bdf47f
+3 Apr 2019 22:37:45 GMT:  Kind = WARNING
+3 Apr 2019 22:37:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:37:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8416488
+3 Apr 2019 22:37:45 GMT:  Kind = WARNING
+3 Apr 2019 22:37:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:37:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42fca42a
+3 Apr 2019 22:37:45 GMT:  Kind = ERROR
+3 Apr 2019 22:37:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 50 ColNo = 8 Msg = 'getBounds cannot be resolved'
+3 Apr 2019 22:37:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d1358
+3 Apr 2019 22:37:45 GMT:  Kind = ERROR
+3 Apr 2019 22:37:45 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 50 ColNo = 29 Msg = 'entity cannot be resolved to a variable'
+3 Apr 2019 22:38:04 GMT: diagnostics = javax.tools.DiagnosticCollector@bb22fb8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@56b3b90d
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:38:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@50925c64' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:38:04 GMT: Compiler call returned
+3 Apr 2019 22:38:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a0f986
+3 Apr 2019 22:38:04 GMT:  Kind = WARNING
+3 Apr 2019 22:38:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:38:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@119e432c
+3 Apr 2019 22:38:04 GMT:  Kind = WARNING
+3 Apr 2019 22:38:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:38:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f0036ae
+3 Apr 2019 22:38:04 GMT:  Kind = ERROR
+3 Apr 2019 22:38:04 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\Missle.java LineNo = 50 ColNo = 31 Msg = 'entity cannot be resolved to a variable'
+3 Apr 2019 22:38:20 GMT: diagnostics = javax.tools.DiagnosticCollector@1b474ca2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6d195a7a
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java, D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java]
+3 Apr 2019 22:38:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7470d014' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:38:20 GMT: Compiler call returned
+3 Apr 2019 22:38:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2359937d
+3 Apr 2019 22:38:20 GMT:  Kind = WARNING
+3 Apr 2019 22:38:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 156 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:38:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38e13e9c
+3 Apr 2019 22:38:20 GMT:  Kind = WARNING
+3 Apr 2019 22:38:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:42:20 GMT: diagnostics = javax.tools.DiagnosticCollector@7186d9aa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@70155206
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:42:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@33ff1389' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:42:20 GMT: Compiler call returned
+3 Apr 2019 22:42:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7764ee0
+3 Apr 2019 22:42:20 GMT:  Kind = WARNING
+3 Apr 2019 22:42:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 168 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:42:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5491885c
+3 Apr 2019 22:42:20 GMT:  Kind = WARNING
+3 Apr 2019 22:42:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:42:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2354108b
+3 Apr 2019 22:42:20 GMT:  Kind = ERROR
+3 Apr 2019 22:42:20 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 163 ColNo = 15 Msg = 'missle cannot be resolved'
+3 Apr 2019 22:42:32 GMT: diagnostics = javax.tools.DiagnosticCollector@3dc946b6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6982a5ca
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:42:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7405cc1f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:42:33 GMT: Compiler call returned
+3 Apr 2019 22:42:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f62c8a0
+3 Apr 2019 22:42:33 GMT:  Kind = WARNING
+3 Apr 2019 22:42:33 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 168 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:42:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7280bf92
+3 Apr 2019 22:42:33 GMT:  Kind = WARNING
+3 Apr 2019 22:42:33 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:43:42 GMT: diagnostics = javax.tools.DiagnosticCollector@62d5d228
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2bee95e1
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:43:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38b86de7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:43:42 GMT: Compiler call returned
+3 Apr 2019 22:43:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cf142db
+3 Apr 2019 22:43:42 GMT:  Kind = WARNING
+3 Apr 2019 22:43:42 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 170 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:43:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aee2c84
+3 Apr 2019 22:43:42 GMT:  Kind = WARNING
+3 Apr 2019 22:43:42 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:47:27 GMT: diagnostics = javax.tools.DiagnosticCollector@48ea0e65
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@46fe36a5
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:47:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2dacd87' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:47:27 GMT: Compiler call returned
+3 Apr 2019 22:47:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46ab623f
+3 Apr 2019 22:47:27 GMT:  Kind = WARNING
+3 Apr 2019 22:47:27 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 176 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:47:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f35f755
+3 Apr 2019 22:47:27 GMT:  Kind = WARNING
+3 Apr 2019 22:47:27 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:48:51 GMT: diagnostics = javax.tools.DiagnosticCollector@43d4be02
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37b8660b
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:48:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8d6ced4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:48:52 GMT: Compiler call returned
+3 Apr 2019 22:48:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6db129f1
+3 Apr 2019 22:48:52 GMT:  Kind = WARNING
+3 Apr 2019 22:48:52 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 176 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:48:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@396e0e42
+3 Apr 2019 22:48:52 GMT:  Kind = WARNING
+3 Apr 2019 22:48:52 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:49:46 GMT: diagnostics = javax.tools.DiagnosticCollector@7580d291
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7c4898f7
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:49:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bbedb56' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:49:47 GMT: Compiler call returned
+3 Apr 2019 22:49:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a392fa
+3 Apr 2019 22:49:47 GMT:  Kind = WARNING
+3 Apr 2019 22:49:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 176 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:49:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1577873c
+3 Apr 2019 22:49:47 GMT:  Kind = WARNING
+3 Apr 2019 22:49:47 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:51:01 GMT: diagnostics = javax.tools.DiagnosticCollector@5ab25e77
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2ff8bb7e
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:51:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@375157a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:51:02 GMT: Compiler call returned
+3 Apr 2019 22:51:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20b07674
+3 Apr 2019 22:51:02 GMT:  Kind = WARNING
+3 Apr 2019 22:51:02 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 177 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:51:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65dfcb49
+3 Apr 2019 22:51:02 GMT:  Kind = WARNING
+3 Apr 2019 22:51:02 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:52:49 GMT: diagnostics = javax.tools.DiagnosticCollector@2710ab3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@167d94cd
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:52:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b10b999' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:52:50 GMT: Compiler call returned
+3 Apr 2019 22:52:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@378ccb1d
+3 Apr 2019 22:52:50 GMT:  Kind = WARNING
+3 Apr 2019 22:52:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 178 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:52:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23199bad
+3 Apr 2019 22:52:50 GMT:  Kind = WARNING
+3 Apr 2019 22:52:50 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:54:16 GMT: diagnostics = javax.tools.DiagnosticCollector@7e6e9727
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@795bb492
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:54:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d04d6e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:54:17 GMT: Compiler call returned
+3 Apr 2019 22:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fcf8b44
+3 Apr 2019 22:54:17 GMT:  Kind = WARNING
+3 Apr 2019 22:54:17 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 177 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1002c7ba
+3 Apr 2019 22:54:17 GMT:  Kind = WARNING
+3 Apr 2019 22:54:17 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:57:45 GMT: diagnostics = javax.tools.DiagnosticCollector@5e78bfdc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@137a2c17
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 22:57:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@513ef8ed' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 22:57:46 GMT: Compiler call returned
+3 Apr 2019 22:57:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@566d6cab
+3 Apr 2019 22:57:46 GMT:  Kind = WARNING
+3 Apr 2019 22:57:46 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 177 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 22:57:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65864ed2
+3 Apr 2019 22:57:46 GMT:  Kind = WARNING
+3 Apr 2019 22:57:46 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 23:01:38 GMT: diagnostics = javax.tools.DiagnosticCollector@298f6c6e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6428d176
+fileObjects = [D:\School\Grade 12\Computer Science\Space Invaders\Alien.java, D:\School\Grade 12\Computer Science\Space Invaders\Ship.java, D:\School\Grade 12\Computer Science\Space Invaders\Missle.java, D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java]
+3 Apr 2019 23:01:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4855ec39' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\School\Grade 12\Computer Science\Space Invaders;D:\Programs\drjava-beta-20160913-225446.exe]
+3 Apr 2019 23:01:38 GMT: Compiler call returned
+3 Apr 2019 23:01:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60be2942
+3 Apr 2019 23:01:38 GMT:  Kind = WARNING
+3 Apr 2019 23:01:39 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 177 ColNo = 16 Msg = 'The serializable class MyDrawPanel does not declare a static final serialVersionUID field of type long'
+3 Apr 2019 23:01:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5790cf4
+3 Apr 2019 23:01:39 GMT:  Kind = WARNING
+3 Apr 2019 23:01:39 GMT: Name = D:\School\Grade 12\Computer Science\Space Invaders\SpaceInvaders.java LineNo = 7 ColNo = 14 Msg = 'The serializable class SpaceInvaders does not declare a static final serialVersionUID field of type long'
