@@ -1,2 +1,4 @@
 # Space Invaders
-A Java-based Space Invaders clone made as a school project a couple years ago.
+A Space Invaders clone made in Java with Swing.
+Includes all basic functions of the game along with a system to save high scores.
+![Alt text]("Space Invaders.gif")
